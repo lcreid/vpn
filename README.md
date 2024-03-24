@@ -1,6 +1,6 @@
 # README
 
-This is a repository of files I used to build a simple tunneling VPN. For a more complete description, read [this](https://jadesystems.ca/knowledgebase/).
+This is a repository of files I used to build a simple tunneling VPN. For a more complete description, read [this](https://jadesystems.ca/knowledgebase/vpn.html#how-does-it-work/).
 
 The security world is ever-evolving. If you want to use these scripts, you're welcome, but I give no guarantee that they're up-to-date, nor that they offer the level of security that your situation requires.
 
