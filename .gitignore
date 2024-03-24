@@ -1,0 +1,6 @@
+*.ovpn
+*.conf
+!base.conf
+!server-common-name.conf
+WORKPLAN.md
+
